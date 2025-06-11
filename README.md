@@ -1,5 +1,3 @@
-Here is a **cleaned-up and UI-enhanced version** of your `README.md` for setting up **Menyoo in a FiveM server**, with improved readability, headings, and external links opening in new tabs:
-
 ---
 
 # 🎮 MENYOO in FiveM Server Setup
@@ -71,5 +69,3 @@ You can now launch your server and use **Menyoo** for in-game modifications.
 > 🎉 Have fun customizing your world!
 
 ---
-
-Would you like a downloadable `.md` file version or this integrated into a GitHub Pages-style website?
